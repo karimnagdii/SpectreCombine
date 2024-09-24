@@ -1,5 +1,8 @@
-pywin32
-opencv-python
+pywin32~=306
+opencv-python~=4.10.0.84
 serial-tool 
-pyautogui
-mss
+pyautogui~=0.9.54
+mss~=9.0.2
+pyserial~=3.5
+numpy~=2.1.1
+keyboard~=0.13.5

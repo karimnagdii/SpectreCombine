@@ -55,6 +55,12 @@ class Mouse:
             time.sleep(10)
             exit()
 
+    def auto_strafe(self, x_speed, delay):
+        while self.auto_strafe_enabled:
+            self.move(-x_speed, 0)  # Move left
+            time.sleep(delay / 1000)  # Delay between moves
+            self.move(x_speed, 0)  # Move right
+            time.sleep(delay / 1000)  # Delay between moves
     def move(self, x, y):
         """
         Sends a mouse movement command to the Arduino, handling fractional movements by storing remainders.
