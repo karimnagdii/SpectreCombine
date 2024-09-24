@@ -1,8 +1,7 @@
-[![Discord](https://discordapp.com/api/guilds/1235469363050577950/widget.png?style=shield)](https://discord.gg/9nCdHvNDkc)
 
 ## DISCLAIMER
 
-- **Compatibility**: This software is designed for Arduino Leonardo boards only.
+- **Compatibility**: This software is designed for Arduino Leonardo/pro micro boards only.
 - **Cheat Detection**: I can not guarantee that this software is undetectable.
 - **Responsibility**: This software is intended for educational purposes only. I am not responsible for any account bans, penalties, or any other consequences that may result from using this tool. Use it at your own risk and be aware of the potential implications.
 
@@ -31,7 +30,7 @@
 
 5. **In-Game Settings**:
    - Set your in-game sensitivity to **0.5**.
-   - Change the enemy highlight color to **Purple**.
+   - Change the enemy highlight color to **Greem**.
 
 6. **Enjoy**:
    - Have fun, but remember to play responsibly!
